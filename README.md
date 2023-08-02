@@ -1,4 +1,4 @@
-**README for Simple Grocery Bud React App**
+Grocery Bud 
 
 The Simple Grocery Bud React App is a straightforward and user-friendly web application designed to assist users in managing their grocery shopping list. The app is built using React, a popular JavaScript library for building user interfaces, making it highly interactive and responsive.
 
